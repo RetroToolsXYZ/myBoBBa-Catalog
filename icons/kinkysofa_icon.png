@@ -1,0 +1,2 @@
+
+Warning: imagepng() expects parameter 1 to be resource, boolean given in C:\inetpub\wwwroot\iboom\HabboLibrary\habbo\common\Images\Image.php on line 183
