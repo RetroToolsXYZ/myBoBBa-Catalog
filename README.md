@@ -4,7 +4,7 @@ I believe Habbo was built off releases and leaks of Habbo content! In case you d
 # Will you release an up-to-date version too?
 Yes, I am working on it for you guys 💖
 
-Video of the catalog: https://vimeo.com/989169781+
+Video of the catalog: https://vimeo.com/989169781
 
 ## Getting started
 Checkout our Forums: https://retrotools.xyz/index.php?threads/updated-2024-mybobba-catalog-official-release-retrotools-xyz.56/
