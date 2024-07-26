@@ -16,7 +16,7 @@ Album1584 goes in c_images folder
 
 Run all SQL's in Navicat, place all the files provided, in the correct game path to your nitro assets
 
-# Purge Cloudflare cache and run the command in the client 
+# Purge Cloudflare cache and run the commands in the client 
 :update_items
 :update_catalog
 
