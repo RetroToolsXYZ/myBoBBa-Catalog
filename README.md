@@ -1,7 +1,7 @@
-#Why release?
+## Why release?
 I believe Habbo was built off releases and leaks of Habbo content! In case you don't fancy paying $70/100 dollars for this catalog from Puffin you can get somewhat of the latest 2024 version which is a few months behind compared to the current one used on MyBobba.
 
-##Will you release an up-to-date version too?
+# Will you release an up-to-date version too?
 Yes, I am working on it for you guys 💖
 
 Video of the catalog: https://vimeo.com/989169781+
@@ -16,11 +16,11 @@ Album1584 goes in c_images folder
 
 Run all SQL's in Navicat, place all the files provided, in the correct game path to your nitro assets
 
-##Purge Cloudflare cache and run the command in the client 
+# Purge Cloudflare cache and run the command in the client 
 :update_items
 :update_catalog
 
-##Things you should know:
+## Things you should know:
 This catalog is in English. It does not contain product data and most of the custom furniture and newer Habbo furniture may not have proper names in the FurnitureData.json - in the end that's all aesthetics anyway, the furniture in this release will not disappoint,
 It is possible to put this on an existing hotel with rooms and furni,
 however some of the furni may become black boxes afterward- or all of it will, I cannot guarantee it depends on your current FurniData structure;
@@ -35,9 +35,9 @@ You will need the latest badges from Habbo so be sure to merge my album1584 fold
 The catalog includes exclusive items made for myBoBBa and a comprehensive VIP line.
 Enjoy!
 
-##Need Help?
+# Need Help?
 The catalog is pretty easy to install, if you're struggling with it don't hesitate to ask me for help!
 Discord: retrotools
 
-##More Up-To-Date Version Coming Soon...
+## More Up-To-Date Version Coming Soon...
 This catalog is a few months behind MyBobba's current one, within a few weeks from now I will release the latest version for free. I am making updates/fixes to it at the moment.
